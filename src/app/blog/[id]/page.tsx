@@ -48,9 +48,9 @@ const page = ({params} : Paramsin) => {
                       <h1 className='font-bold'>Tags:</h1>
                       <h1 className='text-gray-600'>Resturant, Dinner, Pizza, Yummy.</h1>
                       </div>
-                      <h1 className='flex gap-3 text-gray-700'>Share: <a className="text-xl" href="https://pk.linkedin.com/in/ghaniya-khan-138919308" > <FaLinkedin /></a>
-                                <a className="text-xl" href="https://github.com/Ghaniya08"><IoLogoGithub  /></a>
-                                <a className="text-xl" href="https://instagram.com/ghaniya08">< FaInstagram/></a></h1>
+                      <h1 className='flex gap-3 text-gray-700'>Share: <FaLinkedin />
+                              <IoLogoGithub  />
+                                < FaInstagram/></h1>
                     </div>
                     <CommentSection/>
                 </div>
