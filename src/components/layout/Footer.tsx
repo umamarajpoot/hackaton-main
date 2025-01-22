@@ -185,21 +185,6 @@ const Footer = () => {
           </div>
         </div>
         
-        {/* <div className=" px-4 py-6 bg-bordercoloryello w-full  md:flex md:items-center md:justify-between">
-          <span className="text-sm text-gray-500 dark:text-gray-300 sm:text-center">
-            © 2023 <a href="https://flowbite.com/">Flowbite™</a>. All Rights
-            Reserved.
-          </span>
-
-          <div className="flex justify-center gap-[14px] ">
-            <div className="bg-white w-[36px] h-[34px] flex justify-center items-center rounded"><a href="https://www.facebook.com/profile.php?id=61554662968933&mibextid=ZbWKwL"><FaFacebookF /></a></div>
-            <div className="bg-white w-[36px] h-[34px] flex justify-center items-center rounded"><FaTwitter /></div>
-            <div className="bg-white w-[36px] h-[34px] flex justify-center items-center rounded"><a href="https://instagram.com/ghaniya08">< FaInstagram/></a></div>
-            <div className="bg-white w-[36px] h-[34px] flex justify-center items-center rounded"><FaYoutube /></div>
-            <div className="bg-white w-[36px] h-[34px] flex justify-center items-center rounded"><FaPinterest /></div>
-          </div>
-         
-        </div> */}
       </div>
 
       <div className=" px-4 py-6 bg-bordercoloryello w-full  md:flex md:items-center md:justify-between">
